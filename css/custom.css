@@ -1,0 +1,36 @@
+.logo {
+    height: 2rem;
+    width: 2rem;
+}
+
+.gradient {
+    background: rgb(71,99,161);
+    background: linear-gradient(90deg, rgba(71,99,161,1) 0%, rgba(73,9,121,1) 53%, rgba(214,32,164,1) 100%);
+}
+
+.page-header {
+    margin-top: 4rem;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 1.25rem;
+    color: #ffffff;
+}
+
+.team-img {
+    height: 15rem;
+    width: 15rem;
+}
+
+.services {
+    color: #fff;
+}
+
+footer {
+    color: #fff;
+    margin: 0;
+    padding: 1rem;
+    font-size: 1rem;
+}
+
+footer a {
+    color: #fff;
+}
